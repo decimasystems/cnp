@@ -1,5 +1,5 @@
 {
-  "name": "cnp",
+  "name": "cnp.js",
   "version": "0.0.1",
   "description": "a Javascript library to validate romanian cnp",
   "main": "cnp.js",
