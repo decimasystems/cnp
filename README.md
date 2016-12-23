@@ -1,2 +1,2 @@
 # cnp.js
-Validate romanian CNP number
+Validate Romanian CNP number developed in Typescript
