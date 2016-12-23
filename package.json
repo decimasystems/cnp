@@ -1,0 +1,24 @@
+{
+  "name": "cnp",
+  "version": "1.0.0",
+  "description": "a Javascript library to validate romanian cnp",
+  "main": "cnp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decimasystems/cnp.js.git"
+  },
+  "keywords": [
+    "cnp",
+    "romanian",
+    "validator"
+  ],
+  "author": "Elena Lazareanu <elena@decimasystems.com> (http://www.decimasystems.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decimasystems/cnp.js/issues"
+  },
+  "homepage": "https://github.com/decimasystems/cnp.js#readme"
+}
